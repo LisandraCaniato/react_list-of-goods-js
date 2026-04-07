@@ -1,3 +1,5 @@
+// alteração pra PR
+// final solution
 import 'bulma/css/bulma.css';
 import './App.scss';
 
